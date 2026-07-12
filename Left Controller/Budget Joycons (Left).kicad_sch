@@ -1,0 +1,51 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "b6892549-3cae-4fcc-88ac-4ae1ae8c2b33")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 71.12 64.77)
+		(size 83.185 55.245)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "202670eb-e90e-40a5-8acd-91bf5e27de77")
+		(property "Sheetname" "Link"
+			(at 71.12 64.0584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "../Main Files/BudgetJoycons_pcb.kicad_sch"
+			(at 71.12 120.5996 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Budget Joycons (Left)"
+				(path "/b6892549-3cae-4fcc-88ac-4ae1ae8c2b33"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
